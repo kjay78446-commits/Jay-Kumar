@@ -1,0 +1,6 @@
+{
+  "name": "Mayra - AI Mobile Assistant",
+  "description": "Mayra AI Assistant - Smart Hindi/Hinglish personal assistant created for Jay Prajapati with mobile action execution and voice interaction.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
